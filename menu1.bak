@@ -1,0 +1,61 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="x/aliste3.css" /> 
+
+<style type="text/css">
+p {text-align: center}
+
+
+</style>
+
+
+
+</head>
+
+
+<body>
+<center>
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr><td> <center><font face="arial" size=6 color=white>The Art of Jeffrey Thompson</font></td></tr><tr><td><center>
+
+
+
+<table border="0" cellpadding="4" cellspacing="4">
+<tr><td>
+<p>
+
+
+
+
+
+<a href="x/fr1.html" target="left">Illustration</a></td>
+<td>
+<p>
+
+<a href="x/fr3.html" target="left">Books 1</a></td>
+<td>
+<p>
+
+<a href="x/fr3b.html" target="left">Books 2</a></td>
+
+<td>
+<p><a href="x/resume.html" target="left">Resume</a></td>
+<td>
+<p><a href="x/contact.html" target="left">Contact</a></td>
+<td>
+<p><a href="http://www.karmadogs.com" target="_top">Karmadog Home</a></td>
+
+</tr></table>
+</td>
+
+</tr></table>
+
+</p>
+
+
+
+
+</body>
+</html>
