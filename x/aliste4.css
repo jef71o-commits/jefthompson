@@ -1,0 +1,59 @@
+body{
+margin:0;
+background:white;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.contact-page{
+max-width:600px;
+margin:00px auto;
+text-align:left;
+}
+
+.contact-layout{
+display:flex;
+justify-content:center;
+align-items:flex-start;
+gap:0;
+}
+
+.contact-card{
+background:black;
+padding:00px;
+width:260px;
+border-left:1px solid black;
+margin-top:0;
+color:white;
+}
+
+h2{
+font-size:18px;
+margin-top:0;
+color:white;
+}
+
+h3{
+font-size:16px;
+margin-top:20px;
+margin-bottom:5px;
+color:white;
+}
+
+.name{
+font-weight:bold;
+}
+
+.contact-card a{
+color:white;
+text-decoration:none;
+}
+
+.contact-card a:hover{
+text-decoration:underline;
+}
+
+.contact-image{
+margin-top:60px;
+max-height:400px;
+display:block;
+}
