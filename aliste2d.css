@@ -1,0 +1,36 @@
+body{
+margin:0;
+background:white;
+color:b;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.gallery{
+margin-left:1%;      /* keeps gallery near left edge */
+max-width:600px;
+}
+
+.mainimage{
+width:100%;
+text-align:left;
+margin-bottom:0px;
+}
+
+.mainimage img{
+border:0;
+display:inline-block;
+max-width:85%;       /* half size */
+height:600;
+}
+
+
+
+.caption{
+margin-top:3px;
+font-size:12px;
+margin-left:1%;
+}
+
+.caption a{
+color:black;
+}

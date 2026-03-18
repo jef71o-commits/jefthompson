@@ -1,0 +1,53 @@
+
+.group{
+break-inside:avoid;
+}
+
+.no-divider{
+border-top:none;
+padding-top:0;
+}
+
+
+.publist{
+max-width:900px;
+margin:40px auto;
+font-family: Arial, Helvetica, sans-serif;
+
+column-count:2;
+column-gap:50px;
+}
+
+.publist h2{
+column-span:all;
+margin-bottom:30px;
+}
+
+.publisher{
+font-weight:bold;
+margin-top:18px;
+padding-top:10px;
+border-top:1px solid #444;
+
+break-inside:avoid;
+}
+
+.publisher:first-of-type{
+border-top:none;
+padding-top:0;
+margin-top:0;
+}
+
+.item{
+margin-left:14px;
+font-size:14px;
+line-height:1.45;
+
+break-inside:avoid;
+}
+
+.year{
+color:#aaa;
+margin-left:6px;
+}
+

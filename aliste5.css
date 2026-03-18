@@ -1,0 +1,30 @@
+body{
+margin:0;
+background-color:black;
+
+}
+
+.nav{
+position:absolute;
+right:0;
+top:25%;
+transform:rotate(90deg) translateY(-50%);
+transform-origin:right top;
+
+font-size:16px;
+font-family: Arial, Helvetica, sans-serif;
+text-align:left;
+}
+
+.nav img{
+display:block;
+margin-bottom:10px;
+}
+
+.nav a{
+display:block;
+margin-bottom:4px;   /* one line spacing */
+text-decoration:none;
+color:white;
+}
+

@@ -1,21 +1,11 @@
-body{
-margin:0;
-}
+body {background-color:ffffff; float: right; text-align: center;} 
 
-.nav{
-width:100%;
-padding-right:30px;
-text-align:right;
-}
 
-.nav img{
-display:block;
-margin-left:auto;
-margin-bottom:15px;
-}
+p {font-size: 70%; font-family: arial;}
 
-.nav a{
-display:block;
-margin-bottom:20px;
-text-decoration:none;
-}
+
+  
+a:link {color:black} 
+a:visited {color:black} 
+a:hover {color:blue} 
+a:active {color:black} 
